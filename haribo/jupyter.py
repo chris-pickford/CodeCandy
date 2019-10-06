@@ -17,7 +17,9 @@ Constant:           THIS_IS_A_CONSTANT
 __status__ = "development"
 __version__ = 'mdl 1.0.0'
 __date__ = "12 Jun 2019"
-__author__ = 'Chris Pickford <drchrispickford@gmail.com>'
+__author__ = 'Chris Pickford <drchrispickford@gmail.com>', \
+                'Alice Oberacker'
+
 
 
 from IPython.core.display import display, HTML
